@@ -21,3 +21,8 @@ To download the dataset, use the link given below.
 
 Downlaod Files:
 https://raw.githubusercontent.com/dsrscientist/dataset1/master/census_income.csv
+
+Prediction Result:
+
+After building the model, I got highest score with Random Forest classifier but AUC-ROC curve suggested KNN as the best model. I have saved both models and done predictions. With Random Forest I got 14% error or difference in actual Vs predicted. 
+but with KNN, I got only 4% error or difference between actual and predicted
